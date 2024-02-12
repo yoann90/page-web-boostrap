@@ -3,3 +3,11 @@
     margin: 0 auto;
     overflow-x: hidden;
 }
+
+video{
+    object-fit: cover;
+
+}
+.filter-video {
+    opacity: 0.5;
+}
