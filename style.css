@@ -1,13 +1,12 @@
 .global-cont {
-    max-width: 1920px;
-    margin: 0 auto;
-    overflow-x: hidden;
+  max-width: 1920px;
+  margin: 0 auto;
+  overflow-x: hidden;
 }
 
-video{
-    object-fit: cover;
-
+video {
+  object-fit: cover;
 }
 .filter-video {
-    opacity: 0.5;
+  opacity: 0.5;
 }
