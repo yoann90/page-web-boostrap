@@ -10,9 +10,12 @@ video {
 .filter-video {
   opacity: 0.5;
 }
-.img-para{
+.img-para {
   width: 100%;
-    height: 300px;
-    background: no-repeat center /cover url('./sources/img-para.jpg');
-    background-attachment: fixed;
+  height: 300px;
+  background: no-repeat center / cover url("./sources/img-para.jpg");
+  background-attachment: fixed;
+}
+footer {
+  height: 80px;
 }
